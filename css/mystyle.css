@@ -1,0 +1,39 @@
+#title{
+  font-family: cursive;
+  color : #efce22;
+  text-align: center;
+}
+
+#body{
+  background-color: #777;
+}
+
+.wrapper{
+  margin:auto;
+  width:600px;
+  height: 720px;
+}
+
+.grid-container{
+  margin:auto;
+  margin-bottom:30px;
+  width:480px;
+  height:480px;
+  background-color: white;
+}
+
+#functionButtons{
+  float:left;
+}
+
+#gridToggle{
+  float:right;
+}
+
+.inner-div{
+  border : 1px dashed #9b9696;
+}
+
+.highlight{
+  background-color: black;
+}
